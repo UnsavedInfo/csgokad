@@ -1,0 +1,105 @@
+* {
+  text-align: center;
+}
+
+.title {
+  font-family: ;
+}
+
+body {
+  font-family: "Roboto Mono", monospace;
+  /*   min-height: 400px; */
+  background-image: url("https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/06/eamccesu4aam1o5.jpg");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center-top;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+#page-title {
+  color: #ffffff;
+  font: bold 25px Arial;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+table {
+  /*   border: 1px solid white; */
+  /*   border-spacing: 2px ; */
+  /*   border-collapse: separete; */
+  background-color: rgba(35, 28, 28, 0.7);
+}
+
+h1 {
+  color: white;
+}
+
+th {
+  /*   border: solid 1px white; */
+  color: white;
+  /*   background-color: #241d15; */
+  opacity: 90%;
+}
+
+tr {
+  /*   border: solid 1px white; */
+  color: #9ccfff;
+  /*   background-color: rgba(255, 255, 255, 0); */
+  opacity: 90%;
+  vertical-align: middle;
+}
+
+td {
+  /*   border: solid 1px white; */
+  color: #f9da6d;
+  background-color: rgba(118, 130, 146, 0.5);
+  opacity: 90%;
+  align: left;
+  vertical-align: middle;
+  border-collapse: separete;
+}
+
+.first input {
+  /*   display: block; */
+  margin: 0 auto;
+  paddin: 10px 15px;
+}
+
+.first button {
+  border: 1;
+  color: #ffffff;
+  background: #ff3636;
+}
+
+.second input {
+  /*   display: block; */
+  margin: 0 auto;
+  paddin: 10px 15px;
+}
+
+#icones img {
+  display: block;
+  margin-right: 10px;
+  margin-left: 2px;
+  height: 30px;
+  width: 30px;
+  border-radius: 4px;
+}
+
+.icones {
+  vertical-align: middle;
+  text-align: left;
+}
+
+#names {
+  margin-top: 6px;
+}
