@@ -1,2 +1,2 @@
 # csgokad
-CS-GO Death Match table simulation on web K/A/D
+CS-GO Death Match table simulation on web
