@@ -53,6 +53,23 @@ var jogadores = [
     pontos: 0,
     icone:
       "https://avatars.akamai.steamstatic.com/996e48d80a663b9fac102904e0be5a33aceff6bb_full.jpg"
+  },
+  {
+    nome: "Duck Dodgers",
+    kills: 0,
+    assists: 0,
+    deaths: 0,
+    pontos: 0,
+    icone:
+      "https://i.pinimg.com/474x/35/2f/02/352f02bfa07377dceb1d659357ee42ee.jpg"
+  },
+  {
+    nome: "Didi",
+    kills: 0,
+    assists: 0,
+    deaths: 0,
+    pontos: 0,
+    icone: "https://s01.video.glbimg.com/x216/2052884.jpg"
   }
 ];
 
