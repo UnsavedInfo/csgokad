@@ -1,2 +1,2 @@
-# csgokad
-CS-GO Death Match table simulation on web
+# Simulação de uma tabela de um mata-mata do CS-GO
+
