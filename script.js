@@ -28,13 +28,13 @@ var jogadores = [
       "https://mir-s3-cdn-cf.behance.net/projects/404/75615d115507751.Y3JvcCw0NzI0LDM2OTUsMCw1MTQ.jpg"
   },
   {
-    nome: "Carla Zambeli",
+    nome: "Eufrazino",
     kills: 0,
     assists: 0,
     deaths: 0,
     pontos: 0,
     icone:
-      "https://img.estadao.com.br/fotos/crop/1200x1200/resources/jpg/1/1/1615588225011.jpg"
+      "https://i.pinimg.com/564x/25/79/ca/2579ca1b2d8917d89200c9354d9772ad.jpg"
   },
   {
     nome: "Coldzera",
